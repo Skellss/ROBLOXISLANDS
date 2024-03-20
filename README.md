@@ -7,4 +7,3 @@ OBVIOUSLY YOU MUST HAVE PYTHON INSTALLED ON YOUR COMPUTER, OR YOU CAN USE VS COD
 Python istall link:
 https://www.python.org/downloads/
 
-Enjoy!

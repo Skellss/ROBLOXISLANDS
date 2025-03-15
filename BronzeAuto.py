@@ -1,7 +1,6 @@
-# Make sure to enter the command pip install keyboard in your terminal before running. 
-# Make sure that you have your gold slot in your hand before you run the code.
-# Put your gold in your first slot of your inv, and your copper in the second.
-# Once those are checked off, just run the code and tab to back to the game.
+# pip install keyboard first
+# drops gold first
+# Put your gold in slot 1 of inv and bronze in slot 2
 
 
 import keyboard
